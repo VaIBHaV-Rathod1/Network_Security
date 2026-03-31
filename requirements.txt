@@ -4,6 +4,9 @@ numpy
 pymongo[srv]==3.12
 pymongo
 certifi
+scikit-learn
+dotenv
+numpy
 
 # -e.  only use when you want to install a package in editable mode.
 # This is useful when you are developing a package and want to test it without installing it globally.  
