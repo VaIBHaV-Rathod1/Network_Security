@@ -8,6 +8,18 @@ scikit-learn
 dotenv
 numpy
 pyaml
+mlflow
+dagshub
+fastapi
+uvicorn
+
+
+
+
+
+
+
+
 # -e.  only use when you want to install a package in editable mode.
 # This is useful when you are developing a package and want to test it without installing it globally.  
 # It allows you to make changes to the code and see the effects immediately without having to reinstall the package every time.
